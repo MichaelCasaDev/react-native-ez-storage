@@ -3,9 +3,8 @@
 A JSON-Based react native storage system!
 
 ### Install
-
 ```
-npm install --save react-native-ez-storage
+Clone this repo and import it in your project.
 ```
 
 ### Usage
